@@ -1,0 +1,17 @@
+{
+  "greeting": "Hello world!",
+
+  "form": {
+    "check-in-label": "Check-in Date",
+    "check-out-label": "Check-out Date",
+    "room-type": "Room Type",
+    "land-selection": "Landscape Selection",
+    "next": "Next",
+    "prev": "Prev",
+    "standart": "Standart",
+    "deluxe": "Deluxe",
+    "suit": "Suit",
+    "sea": "Sea",
+    "land": "Land"
+  }
+}

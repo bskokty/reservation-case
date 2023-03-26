@@ -1,0 +1,36 @@
+{
+  "name": "credit-card-",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "antd": "^5.3.2",
+    "credit-card-input-mask": "^3.0.0",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "i18next": "^22.4.13",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-chained-backend": "^4.2.0",
+    "i18next-localstorage-backend": "^4.1.0",
+    "i18next-locize-backend": "^6.2.1",
+    "locize-cli": "^7.14.0",
+    "moment": "^2.29.4",
+    "next": "13.2.4",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^10.0.0",
+    "react": "18.2.0",
+    "react-credit-cards-2": "^0.10.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-redux": "^8.0.5",
+    "sass": "^1.60.0",
+    "styled-components": "^5.3.9",
+    "utils": "^0.3.1"
+  }
+}

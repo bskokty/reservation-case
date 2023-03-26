@@ -1,0 +1,16 @@
+{
+  "greeting": "Merhaba Dünya!",
+  "form": {
+    "check-in-label": "Check-in Tarihi",
+    "check-out-label": "Check-out Tarihi",
+    "room-type": "Oda Seçimi",
+    "land-selection": "Manzara Seçimi",
+    "next": "İleri",
+    "prev": "Geri",
+    "standart": "Standart",
+    "deluxe": "Deluxe",
+    "suit": "Suit",
+    "sea": "Deniz",
+    "land": "Kara"
+  }
+}
